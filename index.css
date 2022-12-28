@@ -1,0 +1,49 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+header{
+    background-color: blue;
+    position: fixed;
+    width: 100%;
+    padding: 20px;
+    z-index: 1;
+}
+.headreskyhouse nav li{
+    width: 5%;
+    display: inline-block;
+    font-size: 8px;
+    margin-left: 150px;
+    margin-top: -200px
+}
+.skyhouse {
+    display: inline-block;
+    margin-top: 25px;
+    margin-left: 15px;
+   
+}
+
+.building{
+    width: 700px;
+    margin-left: 240px;
+    margin-top: 150px;
+    position: relative
+    
+}
+.title{
+    margin-left: 243px;
+    margin-top: 20px;
+}
+.image2{
+    width: 12%;
+    display: inline-block;
+    margin-top: 60px;
+    margin-left: 100px;
+    
+    
+}
+a{
+    color: white;
+    text-decoration: none;
+}
